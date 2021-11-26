@@ -47,8 +47,7 @@
 #for i in range(kolvo):
 #	ocenka=randint(1,5)
 #	if ocenka<5:
-#		ocenka=ocenka+random()
-#		ocenka=round(ocenka)
+#		ocenka=ocenka
 #	print(ocenka, end=" ")
 #	if ocenka>maxOcenka:
 #		maxOcenka=ocenka
